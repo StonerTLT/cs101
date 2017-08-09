@@ -1,2 +1,4 @@
 # cs101
- Some python program from Udacity
+python program from Udacity
+love me like you do
+strip me
