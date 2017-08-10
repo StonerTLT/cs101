@@ -82,12 +82,6 @@ def daysBetweenDates(year1, month1, day1, year2, month2, day2):
         days += 1
     return days
 
-print daysBetweenDates(2012, 1, 1, 2012, 2, 28)
-print daysBetweenDates(2012, 1, 1, 2012, 3, 1)
-print daysBetweenDates(2011, 6, 30, 2012, 6, 30)
-print daysBetweenDates(2011, 1, 1, 2012, 8, 8)
-print daysBetweenDates(1900, 1, 1, 1999, 12, 31)
-
 # def test():
 #     test_cases = [((2012, 1, 1, 2012, 2, 28), 58),
 #                   ((2012, 1, 1, 2012, 3, 1), 60),
